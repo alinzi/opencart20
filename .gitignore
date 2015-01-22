@@ -1,0 +1,12 @@
+.htaccess
+/config.php
+/opencart-2.0.1.1.zip
+admin/config.php
+
+!index.html
+
+download/
+image/data/
+image/cache/
+system/cache/
+system/logs/
