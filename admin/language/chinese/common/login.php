@@ -1,9 +1,9 @@
 <?php
 // header
-$_['heading_title']  = '行政管理';
+$_['heading_title']  = '后台管理';
 
 // Text
-$_['text_heading']   = '行政管理';
+$_['text_heading']   = '后台管理';
 $_['text_login']     = '请输入您的登录详细信息。';
 $_['text_forgotten'] = '忘记的密码';
 
