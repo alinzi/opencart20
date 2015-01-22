@@ -1,6 +1,6 @@
 .htaccess
 /config.php
-/opencart-2.0.1.1.zip
+opencart-2.0.1.1.zip
 admin/config.php
 
 !index.html
